@@ -1,0 +1,7 @@
+E:\мдк 01 практика 14\App14\App14\bin\Debug\App14.exe.config
+E:\мдк 01 практика 14\App14\App14\bin\Debug\App14.exe
+E:\мдк 01 практика 14\App14\App14\bin\Debug\App14.pdb
+E:\мдк 01 практика 14\App14\App14\obj\Debug\App14.csproj.AssemblyReference.cache
+E:\мдк 01 практика 14\App14\App14\obj\Debug\App14.csproj.CoreCompileInputs.cache
+E:\мдк 01 практика 14\App14\App14\obj\Debug\App14.exe
+E:\мдк 01 практика 14\App14\App14\obj\Debug\App14.pdb
